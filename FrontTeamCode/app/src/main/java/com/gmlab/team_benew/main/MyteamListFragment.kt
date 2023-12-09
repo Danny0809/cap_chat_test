@@ -15,5 +15,4 @@ class MyteamListFragment: Fragment() {
     ): View? {
         return inflater.inflate(R.layout.fragment_myteamlist, container, false)
     }
-
 }
